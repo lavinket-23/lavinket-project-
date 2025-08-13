@@ -1,0 +1,2 @@
+# (Optionnel) Dépendances Python pour scripts utilitaires
+# À étendre selon vos besoins.

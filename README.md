@@ -1,2 +1,8 @@
-# lavinket-project-
-Codex vivant — convergence entre art, Parole et code. The Living Codex — convergence between art, the Word, and code.
+# Œuvres
+
+Place ici :
+- exports audio (.wav/.flac) — versions légères ou liens
+- partitions finales (.ly/.pdf)
+- textes poétiques aboutis
+
+Pour de gros fichiers, préfère les *releases* GitHub ou un stockage externe, et mets ici les liens + checksums.

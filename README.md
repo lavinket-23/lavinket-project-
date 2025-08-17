@@ -1,3 +1,16 @@
+## 🔮 Œuvres & Transmissions
+[![The Living Codex](https://img.shields.io/badge/✦_The_Living_Codex_✦-Lavinket-blueviolet?style=for-the-badge)](https://teknival.fr)
+[![Listen on SoundCloud](https://img.shields.io/badge/Listen-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/lavinket)
+
+## 📜 Manifestes & Écrits
+[![Manifesto](https://img.shields.io/badge/📜-Manifesto-lightgrey?style=for-the-badge)](./MANIFESTE.md)
+
+## 🌐 Liens
+[![Website](https://img.shields.io/badge/🌐-teknival.fr-blue?style=for-the-badge)](https://teknival.fr)
+
+## ⚖️ Licence
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 [![The Living Codex](https://img.shields.io/badge/✦_The_Living_Codex_✦-Lavinket-blueviolet?style=for-the-badge)](https://lavinket.fr)
 [![Listen on SoundCloud](https://img.shields.io/badge/Listen-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/lavinket23)
 [![Manifesto](https://img.shields.io/badge/📜-Manifesto-lightgrey?style=for-the-badge)](./MANIFESTO.md)

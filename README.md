@@ -7,6 +7,8 @@
 [![Website](https://img.shields.io/badge/🌐-teknival.fr-blue?style=for-the-badge)](https://teknival.fr)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+[![GitHub Pages](https://img.shields.io/badge/Player-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://lavinket-23.github.io/lavinket-project-/)
+
 ---
 
 ## 📜 Manifestes & Écrits

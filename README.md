@@ -1,6 +1,6 @@
 ## 🔮 Œuvres & Transmissions
 [![The Living Codex](https://img.shields.io/badge/✦_The_Living_Codex_✦-Lavinket-blueviolet?style=for-the-badge)](https://teknival.fr)
-[![Listen on SoundCloud](https://img.shields.io/badge/Listen-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/lavinket)
+[![Listen on SoundCloud](https://img.shields.io/badge/Listen-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/lavinket23)
 
 ## 📜 Manifestes & Écrits
 [![Manifesto](https://img.shields.io/badge/📜-Manifesto-lightgrey?style=for-the-badge)](./MANIFESTE.md)

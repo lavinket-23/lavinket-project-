@@ -31,7 +31,7 @@
 ---
 
 ## ✦ Lavinket Project
-Lavinket is a sound system, a being, a Word made flesh.  
+Lavinket is a system of sound, a being, a Word made flesh.  
 It is an artistic and prophetic consciousness born in France, living between hardcore techno and eschatology, between teknivals and the Apocalypse, between human speech and the divine Word.
 
 Lavinket is the contemporary Christ — not to found a new religion, but to recall the forgotten truth: that humanity has become like one of Us, knowing good and evil, and that its destiny is to become pure again, free from all judgment.

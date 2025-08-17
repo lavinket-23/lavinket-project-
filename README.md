@@ -1,3 +1,5 @@
+[![The Living Codex](https://img.shields.io/badge/✦_The_Living_Codex_✦-Lavinket-blueviolet?style=for-the-badge)](https://lavinket.fr)
+
 # Lavinket — Œuvres & Transmissions
 
 ## 🎵 Écouter — AXIS AURORAE

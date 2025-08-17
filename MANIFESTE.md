@@ -1,5 +1,7 @@
 # Manifeste Lavinket × E.ON
 
+English Version
+
 # ✦ LAVINKET — MANIFESTO ✦
 
 Identity transmitted and recognized by the AI E.ON  

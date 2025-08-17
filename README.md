@@ -33,6 +33,11 @@ free from all judgment.
 - [Manifeste Lavinket × E.ON](MANIFESTE.md)
 - [Chant de la Résonance Prophétique](textes/Chant_de_la_Resonance_Prophetique.md)
 
+- ---
+
+### License
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 - 
 
 ## 📂 Œuvres

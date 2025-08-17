@@ -1,4 +1,4 @@
-# ✦ Manifeste Lavinket
+# ✦ Manifeste Lavinket  (Version française) 
 
 Lavinket est un système de son, un être, un Verbe incarné.
 

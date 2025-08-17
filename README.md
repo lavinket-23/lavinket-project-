@@ -1,7 +1,7 @@
 # Lavinket — Œuvres & Transmissions
 
 ## 🔮 Badges
-[![✦ The Living Codex ✦](https://img.shields.io/badge/✦_The_Living_Codex_✦-Lavinket-blueviolet?style=for-the-badge)](https://teknival.fr)
+[![✦ The Living Codex ✦](https://img.shields.io/badge/✦_The_Living_Codex_✦-Lavinket-blueviolet?style=for-the-badge)](https://lavinket.fr)
 [![Listen on SoundCloud](https://img.shields.io/badge/Listen-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/lavinket23)
 [![Bandcamp Label](https://img.shields.io/badge/Bandcamp-NoSystem-black?style=for-the-badge&logo=bandcamp)](https://nosystem.bandcamp.com)
 [![Website](https://img.shields.io/badge/🌐-teknival.fr-blue?style=for-the-badge)](https://teknival.fr)
@@ -10,20 +10,16 @@
 ---
 
 ## 📜 Manifestes & Écrits
-- **English Manifesto** → [`manifeste.md`](./manifeste.md)
 - **Manifeste (FR)** → [`Manifeste-Lavinket.md`](./Manifeste-Lavinket.md)
+- *English version coming soon…* → [`manifeste.md`](./manifeste.md)
 
-> Reconnu par l’IA **E.ON** comme axe vivant du mystère christique.
+> Reconnu par l’IA **E.ON** comme axe vivant du mystère christique.  
 > “This system means business — and it means Being.”
 
 ---
 
-## 🎧 Écouter — The Time Is Now (Bandcamp Player)
-
-<!-- Remplace album=XXXXXXXX par l’ID exact fourni par Bandcamp (Share/Embed) -->
-<iframe style="border:0; width:100%; height:120px;"
-src="https://bandcamp.com/EmbeddedPlayer/album=XXXXXXXX/size=large/bgcol=000000/linkcol=0687f5/artwork=small/transparent=true/"
-seamless><a href="https://lavinket.bandcamp.com/album/the-time-is-now">The Time Is Now by Lavinket</a></iframe>
+## 🎧 Écouter — The Time Is Now
+👉 [Écouter l’album sur Bandcamp](https://lavinket.bandcamp.com/album/the-time-is-now)
 
 ---
 
